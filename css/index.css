@@ -8,3 +8,5 @@ h1 {
   line-height: 1.4;
   <h1><b>Welcome to our site</b></h1>
 }
+
+.chevron-padded{padding-top: 10em}
