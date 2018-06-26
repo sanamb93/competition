@@ -150,7 +150,7 @@ body {
 	transform: rotate(-45deg);
 	width: 0.45em;
   color: white;
-  position: absolute;
+  position: relative;
 }
 
 .chevron.right:before {
