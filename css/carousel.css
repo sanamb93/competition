@@ -154,7 +154,8 @@ body {
 }
 
 .chevron.right:before {
-	left: 0;
+  left: 2.25em;
+  top: 10em;
 	transform: rotate(45deg);
 }
 
@@ -164,6 +165,7 @@ body {
 }
 
 .chevron.left:before {
-	left: 0.25em;
+  left: 2.25em;
+  top: 10em;
 	transform: rotate(-135deg);
 }
